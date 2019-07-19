@@ -9,7 +9,7 @@ In the data science projects I analyse interesting datasets to practise my pytho
 5. **Analysing CIA Factbook data using SQLite and Python** - In this project I am analysing the CIA Factbook data about countries with help of SQLite and Python.
 6. **Online music store data analysis with SQLite** - Analysing music data from an fictional online music store with SQLite and Python. 
 7. **Finding the best markets to advertise** - Analysing survey data from new coders to see which market would be best to advertise.
-8. **Probabilities to win the lottery** - writing various function to display the unlikeliness to win the lottery.
+8. **Probabilities to win the lottery** - Various function to display the unlikeliness to win the lottery.
 
 
 
